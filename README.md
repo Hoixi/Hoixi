@@ -23,6 +23,15 @@
 
 <hr>
 
+<div align="center"> 
+
 [![Hoixi's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Hoixi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Hoixi's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Hoixi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoixi&layout=compact&theme=dark)
+</div>
+
+
+
+
+
